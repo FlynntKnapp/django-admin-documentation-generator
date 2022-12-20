@@ -1,0 +1,1 @@
+# django-admin-documentation-generator
